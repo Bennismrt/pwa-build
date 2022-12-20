@@ -33,7 +33,7 @@ const login = () => {
                         <hr className='text-slate-800' />
                 </div>
                 <div className='bg-colorTwo w-full text-center w-full absolute z-40 top-80'>
-                    <h1 className='font-semibold mb-10 px-8 text-left'>Silahkan masuk kedalam akun anda dan kelola apotek anda</h1>
+                    <h1 className='font-semibold mb-10 text-left max-w-xs m-auto'>Silahkan masuk kedalam akun anda dan kelola apotek anda</h1>
                     <div className='w-80 mx-auto'>
                         <form>
                             <label className='relative'>
